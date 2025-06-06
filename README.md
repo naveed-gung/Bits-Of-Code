@@ -1,5 +1,5 @@
 
-# GlowSearch: Illuminated Texts
+# Bits Of Code: Illuminated Texts
 
 A modern, accessible search interface for frontend development articles. Built with React, TypeScript, and Vite, featuring a beautiful UI with dark mode support and social sharing capabilities.
 
