@@ -43,7 +43,7 @@ A modern, accessible search interface for frontend development articles. Built w
 1. Clone the repository:
 ```bash
 git clone https://github.com/naveed-gung/Bits-Of-Code
-cd glowsearch-illuminated-texts-main
+cd  Bits-Of-Code
 ```
 
 2. Install dependencies:
